@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.1.243:8088/棒球/正式/IOS/1.4.22/Baseball_SNA_Online_1.4.22_20231205_20.31.37_Jenkins227_origin_online_v1.4.0_OverSea_48ef06367c_debug_encrypted.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://zjhdreamteam.coding.net/p/OTADemo/git/raw/master/WeChat_512x512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://zjhdreamteam.coding.net/p/OTADemo/git/raw/master/WeChat_57x57.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wildcaly.chbaseball.global</string>
+				<key>bundle-version</key>
+				<string>1.4.22</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>BaseBall</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
