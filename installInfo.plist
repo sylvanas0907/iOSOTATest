@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wildcaly.sdk.demo</string>
+				<string>com.wildcaly.chbaseball.global</string>
 				<key>bundle-version</key>
 				<string>1.4.22</string>
 				<key>kind</key>
