@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://zjhdreamteam.coding.net/p/OTADemo/git/raw/master/WeChat_512x512.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://zjhdreamteam.coding.net/p/OTADemo/git/raw/master/WeChat_57x57.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
