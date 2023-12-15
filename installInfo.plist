@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.243:8088/棒球/正式/IOS/1.4.22/Baseball_SNA_Online_1.4.22_20231205_20.31.37_Jenkins227_origin_online_v1.4.0_OverSea_48ef06367c_debug_encrypted.ipa</string>
+					<string>http://192.168.1.243:8081/ObjectiveCDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wildcaly.chbaseball.global</string>
+				<string>com.wildcaly.sdk.demo</string>
 				<key>bundle-version</key>
 				<string>1.4.22</string>
 				<key>kind</key>
